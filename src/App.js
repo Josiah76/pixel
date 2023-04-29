@@ -6,10 +6,10 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          This Website is in development. <span className="heart"></span>
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          This is the first version of pixel
         </p>
         <p>
           <a
@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn More
           </a>
         </p>
       </header>
